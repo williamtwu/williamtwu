@@ -1,6 +1,6 @@
 Hi, I’m @williamtwu
-I’m interested in game development, specifically QA testing, Software Engineering, and applications of Machine Learning in games.
-Currently learning Unity and Machine Learning. 
+I’m interested in game development, Software Engineering, and applications of Machine Learning.
+Currently learning Unity and NLP. 
 
 Contact Info:
   Email: williamtwu2018@gmail.com
