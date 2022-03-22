@@ -3,6 +3,7 @@ I’m interested in game development, Software Engineering, and applications of 
 Currently learning Unity and NLP. 
 
 Contact Info:
+
   Email: williamtwu2018@gmail.com
 
 <!---
